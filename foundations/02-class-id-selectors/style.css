@@ -1,0 +1,28 @@
+p{
+    background-color: rgb(236, 135, 168);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.no1{
+    color: black;
+    font-size: 18px;  
+}
+
+#no2{
+    color:blue;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.no3{
+    font-size: 24px;
+}
+
+#no4{
+    background-color: rgb(108, 244, 108);
+    font-weight: bold;
+    font-size: 24px;
+
+}
+
